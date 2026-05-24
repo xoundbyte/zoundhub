@@ -5,26 +5,55 @@
 </div>
 
 # Zoundhub
-Search the artists in our database to view public metadata and third party outputs.
 
-## What is Zoundhub?
+> Explore patterns in music metadata and third-party AI-related signals.
 
-Zoundhub is a **lookup tool for publicly available music data**.  
-It aggregates and displays information about artists from external platforms and tools.
+Zoundhub is a lookup platform for publicly available music metadata and external platform signals across streaming services and third-party analysis tools. It was formed from the ashes of [Soul Over AI](https://github.com/xoundbyte/soul-over-ai).
 
-> [!IMPORTANT]
-The site **does not make any determination or claim** about the authorship of an artist’s music.
+The platform aggregates structured information from multiple sources and presents it through a neutral, searchable interface designed for exploring patterns in modern music releases.
 
-## Data Principles
 
-- All information shown on Zoundhub comes from **external sources**.
-- Data is presented **as-is** with attribution.
-- Zoundhub **does not interpret, score, or classify artists**.
-- The site acts as an **interface for viewing aggregated public metadata and platform signals**.
+## What Zoundhub Does
 
-## Data Sources
+- Aggregates publicly available music metadata
+- Displays third-party platform signals
+- Surfaces external AI-related analysis outputs
+- Enables exploration of release patterns and artist metadata
 
-- Spotify
-- Deezer
-- SubmitHub
-- (more to come)
+Zoundhub does **not** make judgments or determinations about artists or their work.
+
+
+## Example Sources
+
+- Spotify metadata
+- Deezer platform labels
+- Third-party AI analysis tools
+- Public release timelines and catalog data
+
+
+## Important
+
+Zoundhub is:
+- a metadata explorer
+- a lookup tool
+- an aggregation platform for public signals
+
+Zoundhub is not:
+- an authority on music creation
+- a classifier of artists
+- a definitive AI detection system
+
+
+## Disclaimer
+
+All data originates from external sources and may change over time.  
+Third-party outputs are presented as provided by their originating platforms/tools.
+
+
+## Related
+
+- [SubmitHub AI Song Checker](https://www.submithub.com/ai-song-checker)
+- [Deezer's AI detection](https://business.deezer.com/ai-detection/)
+- [Soul Over AI](https://github.com/xoundbyte/soul-over-ai)
+- [Spotify AI Blocker](https://github.com/CennoxX/spotify-ai-blocker)
+- [Spotify AI Band Blocker](https://github.com/Reginald-Gillespie/Spotify-AI-Band-Blocker)
