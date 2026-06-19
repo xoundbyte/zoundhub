@@ -23,6 +23,11 @@ The platform aggregates structured information from multiple sources and present
 Zoundhub does **not** make judgments or determinations about artists or their work.
 
 
+## Add an Artist
+
+Want to add an artist to Zoundhub? [Open a GitHub issue](https://github.com/xoundbyte/zoundhub/issues/new?title=Add+Artist) and include the artist's Spotify ID.
+
+
 ## Example Sources
 
 - Spotify metadata
