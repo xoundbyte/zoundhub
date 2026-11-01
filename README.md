@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://zoundhub.com" target="_blank">
-    <p><img src="https://raw.githubusercontent.com/xoundbyte/zoundhub/refs/heads/main/github-banner.png" width="100%" style="max-width:640px" alt="Zoundhub"></p>
+    <p><img src="https://raw.githubusercontent.com/xoundbyte/zoundhub/refs/heads/main/banner.png" width="100%" alt="Zoundhub"></p>
     </a>
 </div>
 
