@@ -6,52 +6,28 @@
 
 # Zoundhub
 
-> Explore patterns in music metadata and third-party AI-related signals.
+**A directory of AI signals associated with music artists.**
 
-Zoundhub is a lookup platform for publicly available music metadata and external platform signals across streaming services and third-party analysis tools. It was formed from the ashes of [Soul Over AI](https://github.com/xoundbyte/soul-over-ai).
+Zoundhub brings together platform labels, third-party analysis and release metadata so listeners can explore potential AI use in music. It evolved from Soul Over AI, with a focus on automated data gathering and transparent ratings.
 
-The platform aggregates structured information from multiple sources and presents it through a neutral, searchable interface designed for exploring patterns in modern music releases.
+## Suggest an artist or a correction
 
+[Open a GitHub issue](https://github.com/xoundbyte/zoundhub/issues/new) and include:
 
-## What Zoundhub Does
+- The artist's Spotify URL.
+- Relevant source links.
+- Notes explaining the suggestion or correction.
 
-- Aggregates publicly available music metadata
-- Displays third-party platform signals
-- Surfaces external AI-related analysis outputs
-- Enables exploration of release patterns and artist metadata
+## Support Zoundhub
 
-Zoundhub does **not** make judgments or determinations about artists or their work.
+Zoundhub aims to make AI signals in music easier to explore and understand.
 
-
-## Add an Artist
-
-Want to add an artist to Zoundhub? [Open a GitHub issue](https://github.com/xoundbyte/zoundhub/issues/new?title=Add+Artist&body=Spotify+IDs%3A%20) and include the artist's Spotify ID.
-
-
-## Example Sources
-
-- Spotify metadata
-- Deezer platform labels
-- Third-party AI analysis tools
-- Public release timelines and catalog data
-
-
-## Important
-
-Zoundhub is:
-- a metadata explorer
-- a lookup tool
-- an aggregation platform for public signals
-
-Zoundhub is not:
-- an authority on music creation
-- a classifier of artists
-- a definitive AI detection system
-
+If the directory helps you make more informed choices about music, consider [supporting the project on Ko-fi](https://ko-fi.com/zoundhub).
 
 ## Disclaimer
 
-All data originates from external sources and may change over time.  
+All data originates from external sources and may change over time. A listing is a starting point for investigation. A label on a matched release or analysis of sampled tracks cannot establish how an artist's entire catalogue was made.
+
 Third-party outputs are presented as provided by their originating platforms/tools.
 
 
